@@ -1,5 +1,0 @@
-{
-  "framework": "nextjs",
-  "buildCommand": "cd nextjs-dashboard && pnpm install && pnpm run build",
-  "outputDirectory": "nextjs-dashboard/.next"
-}
