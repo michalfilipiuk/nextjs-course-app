@@ -1,6 +1,5 @@
 {
-  "outputDirectory": "nextjs-dashboard/.next",
+  "framework": "nextjs",
   "buildCommand": "cd nextjs-dashboard && pnpm install && pnpm run build",
-  "installCommand": "cd nextjs-dashboard && pnpm install",
-  "framework": "nextjs"
+  "outputDirectory": "nextjs-dashboard/.next"
 }
