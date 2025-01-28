@@ -1,5 +1,5 @@
 {
   "outputDirectory": "nextjs-dashboard/.next",
-  "buildCommand": "cd nextjs-dashboard && pnpm install && pnpm build",
-  "installCommand": "cd nextjs-dashboard && pnpm install"
+  "buildCommand": "cd nextjs-dashboard && npm install && npm run build",
+  "installCommand": "cd nextjs-dashboard && npm install"
 }
